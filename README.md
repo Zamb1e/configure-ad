@@ -118,7 +118,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 	
 - DC-1 will automatically restart
 - Log back into DC-1 as user: mydomain.com\labuser
-- Logging in without your domain name(mydomain.com) as part of your user will not grant you access.
+	- Logging in without your domain name(mydomain.com) as part of your user will not grant you access.
 
 <p align="center">
 <img src="https://i.imgur.com/oNp39DK.png" height="70%" width="70%" alt="Azure Free Account"/> 
